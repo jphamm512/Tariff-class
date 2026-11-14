@@ -1,0 +1,7 @@
+#BlueJ class context
+#Tue Oct 27 20:35:05 CDT 2026
+comment0.target=Tariff
+comment0.text=\ This program calculates the price of an imported item\nbased on three different tariffs throughout a 30 day month.\nthis will show a calendar showing the price each day\nand calculates the average price per week and month.
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+numComments=2
